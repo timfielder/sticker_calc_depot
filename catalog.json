@@ -1,0 +1,54 @@
+{
+  "catalog": [
+    {
+      "name": "Avery 4-Color Neon Pack",
+      "type": "stickers",
+      "affiliate_url": "https://amzn.to/YOUR_LINK_HERE",
+      "stickers": [
+        {"color": 4292049359, "name": "Red", "price": 0.0},
+        {"color": 4281896508, "name": "Green", "price": 0.0},
+        {"color": 4279866834, "name": "Blue", "price": 0.0},
+        {"color": 4294967040, "name": "Yellow", "price": 0.0}
+      ]
+    },
+    {
+      "name": "Royal Green 9-Color Pack",
+      "type": "stickers",
+      "affiliate_url": "https://amzn.to/YOUR_LINK_HERE",
+      "stickers": [
+        {"color": 4292049359, "name": "Red", "price": 0.0},
+        {"color": 4279866834, "name": "Dark Blue", "price": 0.0},
+        {"color": 4281896508, "name": "Green", "price": 0.0},
+        {"color": 4294967040, "name": "Yellow", "price": 0.0},
+        {"color": 4294918273, "name": "Pink", "price": 0.0},
+        {"color": 4294929664, "name": "Orange", "price": 0.0},
+        {"color": 4286259106, "name": "Purple", "price": 0.0},
+        {"color": 4280361249, "name": "Black", "price": 0.0},
+        {"color": 4294967295, "name": "White", "price": 0.0}
+      ]
+    },
+    {
+      "name": "ChromaLabel 16-Color Pro Pack",
+      "type": "stickers",
+      "affiliate_url": "https://amzn.to/YOUR_LINK_HERE",
+      "stickers": [
+        {"color": 4292049359, "name": "Red", "price": 0.0},
+        {"color": 4279866834, "name": "Blue", "price": 0.0},
+        {"color": 4281896508, "name": "Green", "price": 0.0},
+        {"color": 4294967040, "name": "Yellow", "price": 0.0},
+        {"color": 4294918273, "name": "Pink", "price": 0.0},
+        {"color": 4294929664, "name": "Orange", "price": 0.0},
+        {"color": 4286259106, "name": "Purple", "price": 0.0},
+        {"color": 4280361249, "name": "Black", "price": 0.0},
+        {"color": 4294967295, "name": "White", "price": 0.0},
+        {"color": 4278238420, "name": "Cyan", "price": 0.0},
+        {"color": 4287349578, "name": "Lime", "price": 0.0},
+        {"color": 4294951175, "name": "Amber", "price": 0.0},
+        {"color": 4286141768, "name": "Brown", "price": 0.0},
+        {"color": 4288585374, "name": "Grey", "price": 0.0},
+        {"color": 4284538251, "name": "Slate", "price": 0.0},
+        {"color": 4293467747, "name": "Rose", "price": 0.0}
+      ]
+    }
+  ]
+}

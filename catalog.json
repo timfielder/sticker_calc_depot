@@ -1,53 +1,133 @@
 {
   "catalog": [
     {
-      "name": "Avery 4-Color Neon Pack",
+      "name": "Avery 5472 Standard (4-Color)",
       "type": "stickers",
-      "affiliate_url": "https://amzn.to/YOUR_LINK_HERE",
       "stickers": [
         {"color": 4292049359, "name": "Red", "price": 0.0},
-        {"color": 4281896508, "name": "Green", "price": 0.0},
         {"color": 4279866834, "name": "Blue", "price": 0.0},
+        {"color": 4281896508, "name": "Green", "price": 0.0},
+        {"color": 4294688813, "name": "Yellow", "price": 0.0}
+      ]
+    },
+    {
+      "name": "Avery 5474 Neon (4-Color)",
+      "type": "stickers",
+      "stickers": [
+        {"color": 4294915020, "name": "Pink", "price": 0.0},
+        {"color": 4294940928, "name": "Orange", "price": 0.0},
+        {"color": 4284935987, "name": "Green", "price": 0.0},
         {"color": 4294967040, "name": "Yellow", "price": 0.0}
       ]
     },
     {
-      "name": "Royal Green 9-Color Pack",
+      "name": "Royal Green Variety (10-Color)",
       "type": "stickers",
-      "affiliate_url": "https://amzn.to/YOUR_LINK_HERE",
       "stickers": [
-        {"color": 4292049359, "name": "Red", "price": 0.0},
-        {"color": 4279866834, "name": "Dark Blue", "price": 0.0},
-        {"color": 4281896508, "name": "Green", "price": 0.0},
-        {"color": 4294967040, "name": "Yellow", "price": 0.0},
-        {"color": 4294918273, "name": "Pink", "price": 0.0},
-        {"color": 4294929664, "name": "Orange", "price": 0.0},
-        {"color": 4286259106, "name": "Purple", "price": 0.0},
-        {"color": 4280361249, "name": "Black", "price": 0.0},
+        {"color": 4291559424, "name": "Red", "price": 0.0},
+        {"color": 4278203340, "name": "Blue", "price": 0.0},
+        {"color": 4294953984, "name": "Yellow", "price": 0.0},
+        {"color": 4278222848, "name": "Green", "price": 0.0},
+        {"color": 4294937600, "name": "Orange", "price": 0.0},
+        {"color": 4294907027, "name": "Pink", "price": 0.0},
+        {"color": 4286578816, "name": "Purple", "price": 0.0},
+        {"color": 4287333651, "name": "Brown", "price": 0.0},
+        {"color": 4278190080, "name": "Black", "price": 0.0},
         {"color": 4294967295, "name": "White", "price": 0.0}
       ]
     },
     {
-      "name": "ChromaLabel 16-Color Pro Pack",
+      "name": "ChromaLabel Pro Matte (10-Color)",
       "type": "stickers",
-      "affiliate_url": "https://amzn.to/YOUR_LINK_HERE",
+      "stickers": [
+        {"color": 4290186268, "name": "Dark Red", "price": 0.0},
+        {"color": 4279060385, "name": "Dark Blue", "price": 0.0},
+        {"color": 4279983648, "name": "Dark Green", "price": 0.0},
+        {"color": 4294278935, "name": "Yellow-Orange", "price": 0.0},
+        {"color": 4293284096, "name": "Orange", "price": 0.0},
+        {"color": 4287106639, "name": "Maroon", "price": 0.0},
+        {"color": 4283045004, "name": "Deep Purple", "price": 0.0},
+        {"color": 4282263331, "name": "Dark Brown", "price": 0.0},
+        {"color": 4280361249, "name": "Black", "price": 0.0},
+        {"color": 4294638330, "name": "White", "price": 0.0}
+      ]
+    },
+    {
+      "name": "ChromaLabel Neon Multi (5-Color)",
+      "type": "stickers",
+      "stickers": [
+        {"color": 4294907027, "name": "Pink", "price": 0.0},
+        {"color": 4294919424, "name": "Orange", "price": 0.0},
+        {"color": 4281519410, "name": "Green", "price": 0.0},
+        {"color": 4294956800, "name": "Yellow", "price": 0.0},
+        {"color": 4278239231, "name": "Blue", "price": 0.0}
+      ]
+    },
+    {
+      "name": "Hebayy Mega Pack (14-Color)",
+      "type": "stickers",
+      "stickers": [
+        {"color": 4291559424, "name": "Red", "price": 0.0},
+        {"color": 4278203340, "name": "Blue", "price": 0.0},
+        {"color": 4294953984, "name": "Yellow", "price": 0.0},
+        {"color": 4278222848, "name": "Green", "price": 0.0},
+        {"color": 4294937600, "name": "Orange", "price": 0.0},
+        {"color": 4286578816, "name": "Purple", "price": 0.0},
+        {"color": 4287333651, "name": "Brown", "price": 0.0},
+        {"color": 4278190080, "name": "Black", "price": 0.0},
+        {"color": 4294967295, "name": "White", "price": 0.0},
+        {"color": 4278255615, "name": "Cyan", "price": 0.0},
+        {"color": 4294907027, "name": "Pink", "price": 0.0},
+        {"color": 4288585374, "name": "Grey", "price": 0.0},
+        {"color": 4278222912, "name": "Teal", "price": 0.0},
+        {"color": 4294948545, "name": "Light Pink", "price": 0.0}
+      ]
+    },
+    {
+      "name": "Stalogy Pastel Series (6-Color)",
+      "type": "stickers",
+      "stickers": [
+        {"color": 4294491088, "name": "Pastel Pink", "price": 0.0},
+        {"color": 4289911794, "name": "Pastel Blue", "price": 0.0},
+        {"color": 4292668872, "name": "Pastel Green", "price": 0.0},
+        {"color": 4294965700, "name": "Pastel Yellow", "price": 0.0},
+        {"color": 4292988647, "name": "Lilac", "price": 0.0},
+        {"color": 4294959282, "name": "Peach", "price": 0.0}
+      ]
+    },
+    {
+      "name": "Avery Assorted 1/4\" (4-Color)",
+      "type": "stickers",
       "stickers": [
         {"color": 4292049359, "name": "Red", "price": 0.0},
         {"color": 4279866834, "name": "Blue", "price": 0.0},
         {"color": 4281896508, "name": "Green", "price": 0.0},
+        {"color": 4294688813, "name": "Yellow", "price": 0.0}
+      ]
+    },
+    {
+      "name": "Garage Sale Pup (8-Color)",
+      "type": "stickers",
+      "stickers": [
+        {"color": 4294901760, "name": "Red", "price": 0.0},
+        {"color": 4278255360, "name": "Green", "price": 0.0},
+        {"color": 4278190335, "name": "Blue", "price": 0.0},
         {"color": 4294967040, "name": "Yellow", "price": 0.0},
-        {"color": 4294918273, "name": "Pink", "price": 0.0},
-        {"color": 4294929664, "name": "Orange", "price": 0.0},
-        {"color": 4286259106, "name": "Purple", "price": 0.0},
-        {"color": 4280361249, "name": "Black", "price": 0.0},
-        {"color": 4294967295, "name": "White", "price": 0.0},
-        {"color": 4278238420, "name": "Cyan", "price": 0.0},
-        {"color": 4287349578, "name": "Lime", "price": 0.0},
-        {"color": 4294951175, "name": "Amber", "price": 0.0},
-        {"color": 4286141768, "name": "Brown", "price": 0.0},
-        {"color": 4288585374, "name": "Grey", "price": 0.0},
-        {"color": 4284538251, "name": "Slate", "price": 0.0},
-        {"color": 4293467747, "name": "Rose", "price": 0.0}
+        {"color": 4294944000, "name": "Orange", "price": 0.0},
+        {"color": 4294951115, "name": "Pink", "price": 0.0},
+        {"color": 4286578816, "name": "Purple", "price": 0.0},
+        {"color": 4278255615, "name": "Cyan", "price": 0.0}
+      ]
+    },
+    {
+      "name": "OnlineLabels Classic (5-Color)",
+      "type": "stickers",
+      "stickers": [
+        {"color": 4291176488, "name": "Red", "price": 0.0},
+        {"color": 4279592384, "name": "Blue", "price": 0.0},
+        {"color": 4281236786, "name": "Green", "price": 0.0},
+        {"color": 4294688813, "name": "Yellow", "price": 0.0},
+        {"color": 4293880832, "name": "Orange", "price": 0.0}
       ]
     }
   ]

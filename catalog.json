@@ -1,5 +1,21 @@
 {
   "catalog": [
+        {
+      "name": "Royal Green Variety (10-Color)",
+      "type": "stickers",
+      "stickers": [
+        {"color": 4291559424, "name": "Red", "price": 0.0},
+        {"color": 4278203340, "name": "Blue", "price": 0.0},
+        {"color": 4294953984, "name": "Yellow", "price": 0.0},
+        {"color": 4278222848, "name": "Green", "price": 0.0},
+        {"color": 4294937600, "name": "Orange", "price": 0.0},
+        {"color": 4294907027, "name": "Pink", "price": 0.0},
+        {"color": 4286578816, "name": "Purple", "price": 0.0},
+        {"color": 4287333651, "name": "Brown", "price": 0.0},
+        {"color": 4278190080, "name": "Black", "price": 0.0},
+        {"color": 4294967295, "name": "White", "price": 0.0}
+      ]
+    },
     {
       "name": "Avery 5472 Standard (4-Color)",
       "type": "stickers",
@@ -18,22 +34,6 @@
         {"color": 4294940928, "name": "Orange", "price": 0.0},
         {"color": 4284935987, "name": "Green", "price": 0.0},
         {"color": 4294967040, "name": "Yellow", "price": 0.0}
-      ]
-    },
-    {
-      "name": "Royal Green Variety (10-Color)",
-      "type": "stickers",
-      "stickers": [
-        {"color": 4291559424, "name": "Red", "price": 0.0},
-        {"color": 4278203340, "name": "Blue", "price": 0.0},
-        {"color": 4294953984, "name": "Yellow", "price": 0.0},
-        {"color": 4278222848, "name": "Green", "price": 0.0},
-        {"color": 4294937600, "name": "Orange", "price": 0.0},
-        {"color": 4294907027, "name": "Pink", "price": 0.0},
-        {"color": 4286578816, "name": "Purple", "price": 0.0},
-        {"color": 4287333651, "name": "Brown", "price": 0.0},
-        {"color": 4278190080, "name": "Black", "price": 0.0},
-        {"color": 4294967295, "name": "White", "price": 0.0}
       ]
     },
     {

@@ -1,136 +1,146 @@
 {
   "catalog": [
-        {
+    {
       "name": "Royal Green Variety (10-Color)",
       "type": "stickers",
+      "affiliate_url": "https://www.amazon.com/s?k=Royal+Green+Color+Coding+Labels+10+Color+Variety&tag=mydrivewaysal-20",
       "stickers": [
-        {"color": 4291559424, "name": "Red", "price": 0.0},
-        {"color": 4278203340, "name": "Blue", "price": 0.0},
-        {"color": 4294953984, "name": "Yellow", "price": 0.0},
-        {"color": 4278222848, "name": "Green", "price": 0.0},
-        {"color": 4294937600, "name": "Orange", "price": 0.0},
-        {"color": 4294907027, "name": "Pink", "price": 0.0},
-        {"color": 4286578816, "name": "Purple", "price": 0.0},
-        {"color": 4287333651, "name": "Brown", "price": 0.0},
-        {"color": 4278190080, "name": "Black", "price": 0.0},
-        {"color": 4294967295, "name": "White", "price": 0.0}
+        {"color": 4292026159, "name": "Red", "price": 1.0},
+        {"color": 4279858898, "name": "Blue", "price": 2.0},
+        {"color": 4281896508, "name": "Green", "price": 3.0},
+        {"color": 4294688813, "name": "Yellow", "price": 4.0},
+        {"color": 4294940672, "name": "Orange", "price": 5.0},
+        {"color": 4293467747, "name": "Pink", "price": 10.0},
+        {"color": 4288423856, "name": "Purple", "price": 15.0},
+        {"color": 4286145864, "name": "Brown", "price": 20.0},
+        {"color": 4280361249, "name": "Black", "price": 50.0},
+        {"color": 4294967295, "name": "White", "price": 100.0}
       ]
     },
     {
       "name": "Avery 5472 Standard (4-Color)",
       "type": "stickers",
+      "affiliate_url": "https://www.amazon.com/s?k=Avery+5472+Color+Coding+Labels&tag=mydrivewaysal-20",
       "stickers": [
-        {"color": 4292049359, "name": "Red", "price": 0.0},
-        {"color": 4279866834, "name": "Blue", "price": 0.0},
-        {"color": 4281896508, "name": "Green", "price": 0.0},
-        {"color": 4294688813, "name": "Yellow", "price": 0.0}
+        {"color": 4292026159, "name": "Red", "price": 1.0},
+        {"color": 4279858898, "name": "Blue", "price": 5.0},
+        {"color": 4281896508, "name": "Green", "price": 10.0},
+        {"color": 4294688813, "name": "Yellow", "price": 20.0}
       ]
     },
     {
       "name": "Avery 5474 Neon (4-Color)",
       "type": "stickers",
+      "affiliate_url": "https://www.amazon.com/s?k=Avery+5474+Neon+Color+Coding+Labels&tag=mydrivewaysal-20",
       "stickers": [
-        {"color": 4294915020, "name": "Pink", "price": 0.0},
-        {"color": 4294940928, "name": "Orange", "price": 0.0},
-        {"color": 4284935987, "name": "Green", "price": 0.0},
-        {"color": 4294967040, "name": "Yellow", "price": 0.0}
+        {"color": 4294918273, "name": "Neon Pink", "price": 1.0},
+        {"color": 4278249078, "name": "Neon Green", "price": 2.0},
+        {"color": 4294929664, "name": "Neon Orange", "price": 5.0},
+        {"color": 4294967040, "name": "Neon Yellow", "price": 10.0}
       ]
     },
     {
       "name": "ChromaLabel Pro Matte (10-Color)",
       "type": "stickers",
+      "affiliate_url": "https://www.amazon.com/s?k=ChromaLabel+Pro+Matte+Color+Coding+Labels+10+Color&tag=mydrivewaysal-20",
       "stickers": [
-        {"color": 4290186268, "name": "Dark Red", "price": 0.0},
-        {"color": 4279060385, "name": "Dark Blue", "price": 0.0},
-        {"color": 4279983648, "name": "Dark Green", "price": 0.0},
-        {"color": 4294278935, "name": "Yellow-Orange", "price": 0.0},
-        {"color": 4293284096, "name": "Orange", "price": 0.0},
-        {"color": 4287106639, "name": "Maroon", "price": 0.0},
-        {"color": 4283045004, "name": "Deep Purple", "price": 0.0},
-        {"color": 4282263331, "name": "Dark Brown", "price": 0.0},
-        {"color": 4280361249, "name": "Black", "price": 0.0},
-        {"color": 4294638330, "name": "White", "price": 0.0}
+        {"color": 4292026159, "name": "Red", "price": 1.0},
+        {"color": 4279858898, "name": "Blue", "price": 2.0},
+        {"color": 4281896508, "name": "Green", "price": 3.0},
+        {"color": 4294688813, "name": "Yellow", "price": 4.0},
+        {"color": 4294940672, "name": "Orange", "price": 5.0},
+        {"color": 4293467747, "name": "Pink", "price": 10.0},
+        {"color": 4288423856, "name": "Purple", "price": 15.0},
+        {"color": 4286145864, "name": "Brown", "price": 20.0},
+        {"color": 4280361249, "name": "Black", "price": 50.0},
+        {"color": 4294967295, "name": "White", "price": 100.0}
       ]
     },
     {
       "name": "ChromaLabel Neon Multi (5-Color)",
       "type": "stickers",
+      "affiliate_url": "https://www.amazon.com/s?k=ChromaLabel+Neon+Color+Coding+Labels+5+Color&tag=mydrivewaysal-20",
       "stickers": [
-        {"color": 4294907027, "name": "Pink", "price": 0.0},
-        {"color": 4294919424, "name": "Orange", "price": 0.0},
-        {"color": 4281519410, "name": "Green", "price": 0.0},
-        {"color": 4294956800, "name": "Yellow", "price": 0.0},
-        {"color": 4278239231, "name": "Blue", "price": 0.0}
+        {"color": 4294918273, "name": "Neon Pink", "price": 1.0},
+        {"color": 4278249078, "name": "Neon Green", "price": 2.0},
+        {"color": 4294929664, "name": "Neon Orange", "price": 3.0},
+        {"color": 4294967040, "name": "Neon Yellow", "price": 5.0},
+        {"color": 4292026159, "name": "Neon Red", "price": 10.0}
       ]
     },
     {
       "name": "Hebayy Mega Pack (14-Color)",
       "type": "stickers",
+      "affiliate_url": "https://www.amazon.com/s?k=Hebayy+Mega+Pack+Color+Coding+Labels+14+Color&tag=mydrivewaysal-20",
       "stickers": [
-        {"color": 4291559424, "name": "Red", "price": 0.0},
-        {"color": 4278203340, "name": "Blue", "price": 0.0},
-        {"color": 4294953984, "name": "Yellow", "price": 0.0},
-        {"color": 4278222848, "name": "Green", "price": 0.0},
-        {"color": 4294937600, "name": "Orange", "price": 0.0},
-        {"color": 4286578816, "name": "Purple", "price": 0.0},
-        {"color": 4287333651, "name": "Brown", "price": 0.0},
-        {"color": 4278190080, "name": "Black", "price": 0.0},
-        {"color": 4294967295, "name": "White", "price": 0.0},
-        {"color": 4278255615, "name": "Cyan", "price": 0.0},
-        {"color": 4294907027, "name": "Pink", "price": 0.0},
-        {"color": 4288585374, "name": "Grey", "price": 0.0},
-        {"color": 4278222912, "name": "Teal", "price": 0.0},
-        {"color": 4294948545, "name": "Light Pink", "price": 0.0}
+        {"color": 4292026159, "name": "Red", "price": 1.0},
+        {"color": 4279858898, "name": "Blue", "price": 2.0},
+        {"color": 4281896508, "name": "Green", "price": 3.0},
+        {"color": 4294688813, "name": "Yellow", "price": 4.0},
+        {"color": 4294940672, "name": "Orange", "price": 5.0},
+        {"color": 4293467747, "name": "Pink", "price": 6.0},
+        {"color": 4288423856, "name": "Purple", "price": 7.0},
+        {"color": 4286145864, "name": "Brown", "price": 8.0},
+        {"color": 4278255615, "name": "Cyan", "price": 9.0},
+        {"color": 4291624960, "name": "Lime", "price": 10.0},
+        {"color": 4278226944, "name": "Teal", "price": 15.0},
+        {"color": 4283120015, "name": "Indigo", "price": 20.0},
+        {"color": 4280361249, "name": "Black", "price": 50.0},
+        {"color": 4294967295, "name": "White", "price": 100.0}
       ]
     },
     {
       "name": "Stalogy Pastel Series (6-Color)",
       "type": "stickers",
+      "affiliate_url": "https://www.amazon.com/s?k=Stalogy+Pastel+Series+Color+Coding+Labels+6+Color&tag=mydrivewaysal-20",
       "stickers": [
-        {"color": 4294491088, "name": "Pastel Pink", "price": 0.0},
-        {"color": 4289911794, "name": "Pastel Blue", "price": 0.0},
-        {"color": 4292668872, "name": "Pastel Green", "price": 0.0},
-        {"color": 4294965700, "name": "Pastel Yellow", "price": 0.0},
-        {"color": 4292988647, "name": "Lilac", "price": 0.0},
-        {"color": 4294959282, "name": "Peach", "price": 0.0}
+        {"color": 4294491088, "name": "Pastel Pink", "price": 1.0},
+        {"color": 4294959282, "name": "Pastel Orange", "price": 2.0},
+        {"color": 4294965700, "name": "Pastel Yellow", "price": 3.0},
+        {"color": 4291356361, "name": "Pastel Green", "price": 4.0},
+        {"color": 4289975804, "name": "Pastel Blue", "price": 5.0},
+        {"color": 4292988647, "name": "Pastel Purple", "price": 10.0}
       ]
     },
     {
       "name": "Avery Assorted 1/4\" (4-Color)",
       "type": "stickers",
+      "affiliate_url": "https://www.amazon.com/s?k=Avery+Assorted+1%2F4+Inch+Color+Coding+Labels&tag=mydrivewaysal-20",
       "stickers": [
-        {"color": 4292049359, "name": "Red", "price": 0.0},
-        {"color": 4279866834, "name": "Blue", "price": 0.0},
-        {"color": 4281896508, "name": "Green", "price": 0.0},
-        {"color": 4294688813, "name": "Yellow", "price": 0.0}
+        {"color": 4292026159, "name": "Red", "price": 1.0},
+        {"color": 4279858898, "name": "Blue", "price": 2.0},
+        {"color": 4281896508, "name": "Green", "price": 5.0},
+        {"color": 4294688813, "name": "Yellow", "price": 10.0}
       ]
     },
     {
       "name": "Garage Sale Pup (8-Color)",
       "type": "stickers",
+      "affiliate_url": "https://www.amazon.com/s?k=Garage+Sale+Pup+Pricing+Stickers+8+Color&tag=mydrivewaysal-20",
       "stickers": [
-        {"color": 4294901760, "name": "Red", "price": 0.0},
-        {"color": 4278255360, "name": "Green", "price": 0.0},
-        {"color": 4278190335, "name": "Blue", "price": 0.0},
-        {"color": 4294967040, "name": "Yellow", "price": 0.0},
-        {"color": 4294944000, "name": "Orange", "price": 0.0},
-        {"color": 4294951115, "name": "Pink", "price": 0.0},
-        {"color": 4286578816, "name": "Purple", "price": 0.0},
-        {"color": 4278255615, "name": "Cyan", "price": 0.0}
+        {"color": 4294901760, "name": "Red", "price": 0.5},
+        {"color": 4278255360, "name": "Green", "price": 1.0},
+        {"color": 4278190335, "name": "Blue", "price": 2.0},
+        {"color": 4294967040, "name": "Yellow", "price": 3.0},
+        {"color": 4294944000, "name": "Orange", "price": 5.0},
+        {"color": 4294951115, "name": "Pink", "price": 10.0},
+        {"color": 4286578816, "name": "Purple", "price": 15.0},
+        {"color": 4278255615, "name": "Cyan", "price": 20.0}
       ]
     },
     {
       "name": "OnlineLabels Classic (5-Color)",
       "type": "stickers",
+      "affiliate_url": "https://www.amazon.com/s?k=OnlineLabels+Classic+Color+Coding+Labels+5+Color&tag=mydrivewaysal-20",
       "stickers": [
-        {"color": 4291176488, "name": "Red", "price": 0.0},
-        {"color": 4279592384, "name": "Blue", "price": 0.0},
-        {"color": 4281236786, "name": "Green", "price": 0.0},
-        {"color": 4294688813, "name": "Yellow", "price": 0.0},
-        {"color": 4293880832, "name": "Orange", "price": 0.0}
+        {"color": 4291176488, "name": "Red", "price": 1.0},
+        {"color": 4279592384, "name": "Blue", "price": 2.0},
+        {"color": 4281236786, "name": "Green", "price": 5.0},
+        {"color": 4294688813, "name": "Yellow", "price": 10.0},
+        {"color": 4293880832, "name": "Orange", "price": 20.0}
       ]
     },
-     {
+    {
       "name": "Heavy-Duty Locking Cash Box",
       "type": "checkout_gear",
       "affiliate_url": "https://www.amazon.com/s?k=Heavy+Duty+Locking+Cash+Box+with+Money+Tray&tag=mydrivewaysal-20"

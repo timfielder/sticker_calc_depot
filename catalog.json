@@ -129,6 +129,71 @@
         {"color": 4294688813, "name": "Yellow", "price": 0.0},
         {"color": 4293880832, "name": "Orange", "price": 0.0}
       ]
+    },
+     {
+      "name": "Heavy-Duty Locking Cash Box",
+      "type": "checkout_gear",
+      "affiliate_url": "https://www.amazon.com/s?k=Heavy+Duty+Locking+Cash+Box+with+Money+Tray&tag=mydrivewaysal-20"
+    },
+    {
+      "name": "Canvas Cashier Apron (3-Pocket)",
+      "type": "checkout_gear",
+      "affiliate_url": "https://www.amazon.com/s?k=Canvas+Waitress+Apron+3+Pockets&tag=mydrivewaysal-20"
+    },
+    {
+      "name": "Counterfeit Bill Detector Pens",
+      "type": "checkout_gear",
+      "affiliate_url": "https://www.amazon.com/s?k=Counterfeit+Bill+Detector+Pens&tag=mydrivewaysal-20"
+    },
+    {
+      "name": "Plastic Thank-You Bags (Bulk)",
+      "type": "checkout_gear",
+      "affiliate_url": "https://www.amazon.com/s?k=Plastic+T-Shirt+Thank+You+Bags+Bulk&tag=mydrivewaysal-20"
+    },
+    {
+      "name": "Portable High-Capacity Power Bank",
+      "type": "checkout_gear",
+      "affiliate_url": "https://www.amazon.com/s?k=Portable+Charger+High+Capacity+Power+Bank&tag=mydrivewaysal-20"
+    },
+    {
+      "name": "Neon Poster Board (Bulk Pack)",
+      "type": "signage",
+      "affiliate_url": "https://www.amazon.com/s?k=Neon+Poster+Board+Bulk+Pack&tag=mydrivewaysal-20"
+    },
+    {
+      "name": "Heavy-Duty Blank Stake Signs",
+      "type": "signage",
+      "affiliate_url": "https://www.amazon.com/s?k=Heavy+Duty+Blank+Yard+Signs+with+Stakes&tag=mydrivewaysal-20"
+    },
+    {
+      "name": "Thick Chisel-Tip Permanent Markers",
+      "type": "signage",
+      "affiliate_url": "https://www.amazon.com/s?k=Thick+Chisel+Tip+Permanent+Markers+Black&tag=mydrivewaysal-20"
+    },
+    {
+      "name": "Portable Folding Tables (6-Foot)",
+      "type": "merchandising",
+      "affiliate_url": "https://www.amazon.com/s?k=Portable+Folding+Table+6+Foot&tag=mydrivewaysal-20"
+    },
+    {
+      "name": "Collapsible Rolling Garment Rack",
+      "type": "merchandising",
+      "affiliate_url": "https://www.amazon.com/s?k=Collapsible+Rolling+Garment+Rack+Heavy+Duty&tag=mydrivewaysal-20"
+    },
+    {
+      "name": "10x10 Pop-Up Canopy Tent",
+      "type": "host_comfort",
+      "affiliate_url": "https://www.amazon.com/s?k=10x10+Pop+Up+Canopy+Tent&tag=mydrivewaysal-20"
+    },
+    {
+      "name": "Anti-Fatigue Standing Mat",
+      "type": "host_comfort",
+      "affiliate_url": "https://www.amazon.com/s?k=Anti+Fatigue+Standing+Mat+Thick&tag=mydrivewaysal-20"
+    },
+    {
+      "name": "Wearable Portable Neck Fan",
+      "type": "host_comfort",
+      "affiliate_url": "https://www.amazon.com/s?k=Wearable+Portable+Neck+Fan+Rechargeable&tag=mydrivewaysal-20"
     }
   ]
 }

@@ -204,6 +204,21 @@
       "name": "Wearable Portable Neck Fan",
       "type": "host_comfort",
       "affiliate_url": "https://www.amazon.com/s?k=Wearable+Portable+Neck+Fan+Rechargeable&tag=mydrivewaysal-20"
+    },
+    {
+      "name": "Heavy-Duty Clear Tarp",
+      "type": "weather_survival",
+      "affiliate_url": "https://www.amazon.com/s?k=Heavy+Duty+Clear+Tarp+Waterproof&tag=mydrivewaysal-20"
+    },
+    {
+      "name": "Canopy Sandbag Weights",
+      "type": "weather_survival",
+      "affiliate_url": "https://www.amazon.com/s?k=Canopy+Tent+Sandbag+Weights&tag=mydrivewaysal-20"
+    },
+    {
+      "name": "Heavy-Duty Roto-Molded Cooler",
+      "type": "weather_survival",
+      "affiliate_url": "https://www.amazon.com/s?k=Heavy+Duty+Roto+Molded+Cooler&tag=mydrivewaysal-20"
     }
   ]
 }
